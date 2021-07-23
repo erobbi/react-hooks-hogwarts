@@ -12,9 +12,9 @@ function TileData( {hogsData} ) {
                     specialty = {hog.specialty}
                     weight = {hog.weight}
                     greased = {hog.greased}
-                    medal = {hog["highest medal"]}
+                    medal = {hog["highest medal acheived"]}
                     />
-            )
+                )
             })}
         </tile>
     )
